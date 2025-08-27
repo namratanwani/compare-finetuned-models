@@ -8,7 +8,7 @@ Extract knowledge triples from text in the format `Subject | Relation | Object`,
 
 ## Data
 
-**Source**: WebNLG dataset from Hugging Face (`GEM/web_nlg`) 
+**Source**: [WebNLG](https://huggingface.co/datasets/GEM/web_nlg) dataset from Hugging Face (`GEM/web_nlg`) 
 - Training data: 10% random sample of the full training set
 - Test data: 300 samples from 10% of the test set
 - Format: Text descriptions with corresponding knowledge triples
