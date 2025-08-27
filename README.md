@@ -72,6 +72,10 @@ Each triple must strictly follow the Subject | Relation | Object format.
 Ensure consistency: underscores for multi-word names, quotes where required, ISO dates, numeric values as-is.
 ```
 
+## Code
+
+Fine-tuning code is from [unsloth](https://github.com/unslothai/unsloth)
+
 ## Evaluation Method
 
 **Fuzzy Matching Evaluation**: Since exact string matching is too strict for this task, we implemented component-wise fuzzy matching:
