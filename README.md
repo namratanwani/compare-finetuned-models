@@ -98,11 +98,11 @@ Fine-tuning code is from [unsloth](https://github.com/unslothai/unsloth)
 
 | Model | Avg F1 Score | Avg Precision | Avg Recall |
 |-------|-------------|---------------|------------|
-| Gemma 270M | 0.153 | 0.159 | 0.164 |
-| Gemma 2B | 0.316 | 0.325 | 0.319 |
-| Gemma 4B | 0.481 | 0.483 | 0.489 |
-| Llama 1B | 0.407 | 0.421 | 0.403 |
-| Llama 3B | 0.464 | 0.465 | 0.479 |
+| Gemma 3: 270M | 0.153 | 0.159 | 0.164 |
+| Gemma 3: 2B | 0.316 | 0.325 | 0.319 |
+| Gemma 3: 4B | 0.481 | 0.483 | 0.489 |
+| Llama 3.2: 1B | 0.407 | 0.421 | 0.403 |
+| Llama 3.2: 3B | 0.464 | 0.465 | 0.479 |
 
 ### Key Findings
 
